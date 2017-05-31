@@ -1,5 +1,5 @@
 <?php require_once 'config.php';
-//nao pode execultar na segunda vez  // execultar é tenso kk
+
  $id = $_GET['id'];
 
 ?>
